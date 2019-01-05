@@ -1,0 +1,1 @@
+1. segmentGranularity ： 其可选取值在io.druid.java.util.common.granularity.GranularityType类中定义，可以根据不同的场景选择
