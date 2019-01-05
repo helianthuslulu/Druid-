@@ -1,0 +1,4 @@
+1. bin/kafka-console-consumer.sh --bootstrap-server 101.8.101.17:9092 --topic 5_metrics2 --from-beginning
+2.nohup bin/kafka-server-start.sh config/server.properties &
+3../bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test-wiki < /opt/druid/quickstart/kafka-indexing-example3/wikipedia-2016-06-27-sampled.json
+4.bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 6 --topic test-wiki
