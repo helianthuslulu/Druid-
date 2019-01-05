@@ -1,1 +1,10 @@
 http://hbasefly.com/2018/06/19/timeseries-database-8/#comment-7988 来自网易范欣欣的《时序数据库技术体系 – Druid 多维查询之Bitmap索引》
+https://blog.csdn.net/wangshuminjava/article/details/80911177 《Druid中的Kafka Indexing Service源码分析》
+https://blog.csdn.net/njpjsoftdev/article/details/52956083 《Druid.io系列（四）：索引过程分析》
+https://blog.csdn.net/njpjsoftdev/article/details/52956508 《Druid.io系列（六）：问题总结》
+http://zqhxuyuan.github.io/2015/12/03/2015-12-03-Druid-Design/ 《Druid OLAP架构设计》
+http://zqhxuyuan.github.io/2015/12/02/2015-12-02-Hello-Druid/ 《Druid 分布式OLAP入门》
+https://toutiao.io/posts/h70mj3/preview 《Druid Storage 原理》
+https://zhuanlan.zhihu.com/p/36332292 《有序漏斗分析-Druid实践》
+https://fangyeqing.github.io/2016/10/29/druid.io_3---druid%E6%95%B0%E6%8D%AE%E7%9B%B8%E5%85%B3/ 《druid.io 3---druid数据》
+http://www.wangt.cc/2018/08/%E3%80%90%E5%B9%B2%E8%B4%A7%E3%80%91%E4%B8%80%E6%96%87%E7%90%86%E8%A7%A3druid%E5%8E%9F%E7%90%86%E6%9E%B6%E6%9E%84%EF%BC%88%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%8C%E4%B8%8D%E6%98%AFali/ 《【干货】一文理解Druid原理架构（时序数据库，不是ali的数据库连接池）》
